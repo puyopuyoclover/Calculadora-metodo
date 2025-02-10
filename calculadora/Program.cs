@@ -1,0 +1,3 @@
+﻿using Calculadora;
+
+Operacoes.Adicao();
